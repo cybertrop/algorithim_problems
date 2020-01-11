@@ -1,10 +1,9 @@
 #!/bin/python3
-
-# Vowels 
+# vowels .py
 # Level: Easy
 
 # Return the number (count) of vowels in the given string.
-# We will consider a, e, i, o, and u as vowels for this Kata.
+# a, e, i, o, and u
 # The input string will only consist of lower case letters and/or spaces.
 
 # Iteration 1 
